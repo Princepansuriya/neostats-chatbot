@@ -1,8 +1,9 @@
 streamlit
 python-dotenv
-openai
 requests
-faiss-cpu
 langchain
+langchain-openai
 langchain-community
-tiktoken
+faiss-cpu
+tavily-python
+openai
