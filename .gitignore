@@ -1,0 +1,16 @@
+# hide environment files
+.env
+*.env
+
+# hide python virtual env
+venv/
+.env/
+
+# hide __pycache__
+__pycache__/
+
+# hide VSCode stuff
+.vscode/
+
+# hide OS files
+.DS_Store
